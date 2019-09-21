@@ -1,0 +1,127 @@
+C:\Users\anast\source\repos\Reestr\Reestr\bin\Debug\netcoreapp2.1\Reestr.deps.json
+C:\Users\anast\source\repos\Reestr\Reestr\bin\Debug\netcoreapp2.1\Reestr.runtimeconfig.json
+C:\Users\anast\source\repos\Reestr\Reestr\bin\Debug\netcoreapp2.1\Reestr.runtimeconfig.dev.json
+C:\Users\anast\source\repos\Reestr\Reestr\bin\Debug\netcoreapp2.1\Reestr.dll
+C:\Users\anast\source\repos\Reestr\Reestr\obj\Debug\netcoreapp2.1\Reestr.csprojAssemblyReference.cache
+C:\Users\anast\source\repos\Reestr\Reestr\obj\Debug\netcoreapp2.1\Reestr.csproj.CoreCompileInputs.cache
+C:\Users\anast\source\repos\Reestr\Reestr\obj\Debug\netcoreapp2.1\Reestr.RazorAssemblyInfo.cache
+C:\Users\anast\source\repos\Reestr\Reestr\obj\Debug\netcoreapp2.1\Reestr.RazorAssemblyInfo.cs
+C:\Users\anast\source\repos\Reestr\Reestr\obj\Debug\netcoreapp2.1\Reestr.AssemblyInfoInputs.cache
+C:\Users\anast\source\repos\Reestr\Reestr\obj\Debug\netcoreapp2.1\Reestr.AssemblyInfo.cs
+C:\Users\anast\source\repos\Reestr\Reestr\obj\Debug\netcoreapp2.1\Reestr.TagHelpers.input.cache
+C:\Users\anast\source\repos\Reestr\Reestr\obj\Debug\netcoreapp2.1\Reestr.TagHelpers.output.cache
+C:\Users\anast\source\repos\Reestr\Reestr\obj\Debug\netcoreapp2.1\Reestr.RazorCoreGenerate.cache
+C:\Users\anast\source\repos\Reestr\Reestr\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\anast\source\repos\Reestr\Reestr\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\anast\source\repos\Reestr\Reestr\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\anast\source\repos\Reestr\Reestr\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\anast\source\repos\Reestr\Reestr\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\anast\source\repos\Reestr\Reestr\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\anast\source\repos\Reestr\Reestr\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\anast\source\repos\Reestr\Reestr\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\anast\source\repos\Reestr\Reestr\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\anast\source\repos\Reestr\Reestr\obj\Debug\netcoreapp2.1\Reestr.RazorTargetAssemblyInfo.cache
+C:\Users\anast\source\repos\Reestr\Reestr\obj\Debug\netcoreapp2.1\Reestr.RazorTargetAssemblyInfo.cs
+C:\Users\anast\source\repos\Reestr\Reestr\bin\Debug\netcoreapp2.1\Reestr.pdb
+C:\Users\anast\source\repos\Reestr\Reestr\bin\Debug\netcoreapp2.1\Reestr.Views.dll
+C:\Users\anast\source\repos\Reestr\Reestr\bin\Debug\netcoreapp2.1\Reestr.Views.pdb
+C:\Users\anast\source\repos\Reestr\Reestr\obj\Debug\netcoreapp2.1\Reestr.Views.pdb
+C:\Users\anast\source\repos\Reestr\Reestr\obj\Debug\netcoreapp2.1\Reestr.dll
+C:\Users\anast\source\repos\Reestr\Reestr\obj\Debug\netcoreapp2.1\Reestr.pdb
+C:\Users\anast\source\repos\Reestr\Reestr\obj\Debug\netcoreapp2.1\Reestr.csproj.CopyComplete
+C:\Users\anast\source\repos\Reestr\Reestr\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\anast\source\repos\Reestr\Reestr\obj\Debug\netcoreapp2.1\Razor\Views\Home\Create.g.cshtml.cs
+C:\Users\anast\source\repos\Reestr\Reestr\obj\Debug\netcoreapp2.1\Razor\Views\Home\Update.g.cshtml.cs
+C:\Users\anast\source\repos\Reestr\Reestr\obj\Debug\netcoreapp2.1\Razor\Views\Home\Delete.g.cshtml.cs
+C:\Users\Admin\source\repos\Reestr\Reestr\obj\Debug\netcoreapp2.1\Reestr.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Reestr\Reestr\obj\Debug\netcoreapp2.1\Reestr.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Reestr\Reestr\obj\Debug\netcoreapp2.1\Reestr.RazorAssemblyInfo.cache
+C:\Users\Admin\source\repos\Reestr\Reestr\obj\Debug\netcoreapp2.1\Reestr.RazorAssemblyInfo.cs
+C:\Users\Admin\source\repos\Reestr\Reestr\obj\Debug\netcoreapp2.1\Reestr.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Reestr\Reestr\obj\Debug\netcoreapp2.1\Reestr.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Reestr\Reestr\obj\Debug\netcoreapp2.1\Reestr.dll
+C:\Users\Admin\source\repos\Reestr\Reestr\obj\Debug\netcoreapp2.1\Reestr.pdb
+c:\Users\Admin\source\repos\Reestr\Reestr\bin\Debug\netcoreapp2.1\Reestr.deps.json
+c:\Users\Admin\source\repos\Reestr\Reestr\bin\Debug\netcoreapp2.1\Reestr.runtimeconfig.json
+c:\Users\Admin\source\repos\Reestr\Reestr\bin\Debug\netcoreapp2.1\Reestr.runtimeconfig.dev.json
+c:\Users\Admin\source\repos\Reestr\Reestr\bin\Debug\netcoreapp2.1\Reestr.dll
+c:\Users\Admin\source\repos\Reestr\Reestr\bin\Debug\netcoreapp2.1\Reestr.pdb
+c:\Users\Admin\source\repos\Reestr\Reestr\bin\Debug\netcoreapp2.1\Reestr.Views.dll
+c:\Users\Admin\source\repos\Reestr\Reestr\bin\Debug\netcoreapp2.1\Reestr.Views.pdb
+c:\Users\Admin\source\repos\Reestr\Reestr\obj\Debug\netcoreapp2.1\Reestr.TagHelpers.input.cache
+c:\Users\Admin\source\repos\Reestr\Reestr\obj\Debug\netcoreapp2.1\Reestr.TagHelpers.output.cache
+c:\Users\Admin\source\repos\Reestr\Reestr\obj\Debug\netcoreapp2.1\Reestr.RazorCoreGenerate.cache
+c:\Users\Admin\source\repos\Reestr\Reestr\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+c:\Users\Admin\source\repos\Reestr\Reestr\obj\Debug\netcoreapp2.1\Reestr.RazorTargetAssemblyInfo.cache
+c:\Users\Admin\source\repos\Reestr\Reestr\obj\Debug\netcoreapp2.1\Reestr.RazorTargetAssemblyInfo.cs
+c:\Users\Admin\source\repos\Reestr\Reestr\obj\Debug\netcoreapp2.1\Reestr.Views.pdb
+c:\Users\Admin\source\repos\Reestr\Reestr\obj\Debug\netcoreapp2.1\Reestr.csproj.CopyComplete
+C:\Users\anast\Desktop\App\Тестовое задание\Reestr\Reestr\bin\Debug\netcoreapp2.1\Reestr.deps.json
+C:\Users\anast\Desktop\App\Тестовое задание\Reestr\Reestr\bin\Debug\netcoreapp2.1\Reestr.runtimeconfig.json
+C:\Users\anast\Desktop\App\Тестовое задание\Reestr\Reestr\bin\Debug\netcoreapp2.1\Reestr.runtimeconfig.dev.json
+C:\Users\anast\Desktop\App\Тестовое задание\Reestr\Reestr\bin\Debug\netcoreapp2.1\Reestr.dll
+C:\Users\anast\Desktop\App\Тестовое задание\Reestr\Reestr\bin\Debug\netcoreapp2.1\Reestr.pdb
+C:\Users\anast\Desktop\App\Тестовое задание\Reestr\Reestr\bin\Debug\netcoreapp2.1\Reestr.Views.dll
+C:\Users\anast\Desktop\App\Тестовое задание\Reestr\Reestr\bin\Debug\netcoreapp2.1\Reestr.Views.pdb
+C:\Users\anast\Desktop\App\Тестовое задание\Reestr\Reestr\obj\Debug\netcoreapp2.1\Reestr.csproj.CoreCompileInputs.cache
+C:\Users\anast\Desktop\App\Тестовое задание\Reestr\Reestr\obj\Debug\netcoreapp2.1\Reestr.RazorAssemblyInfo.cache
+C:\Users\anast\Desktop\App\Тестовое задание\Reestr\Reestr\obj\Debug\netcoreapp2.1\Reestr.RazorAssemblyInfo.cs
+C:\Users\anast\Desktop\App\Тестовое задание\Reestr\Reestr\obj\Debug\netcoreapp2.1\Reestr.AssemblyInfoInputs.cache
+C:\Users\anast\Desktop\App\Тестовое задание\Reestr\Reestr\obj\Debug\netcoreapp2.1\Reestr.AssemblyInfo.cs
+C:\Users\anast\Desktop\App\Тестовое задание\Reestr\Reestr\obj\Debug\netcoreapp2.1\Reestr.TagHelpers.input.cache
+C:\Users\anast\Desktop\App\Тестовое задание\Reestr\Reestr\obj\Debug\netcoreapp2.1\Reestr.TagHelpers.output.cache
+C:\Users\anast\Desktop\App\Тестовое задание\Reestr\Reestr\obj\Debug\netcoreapp2.1\Reestr.RazorCoreGenerate.cache
+C:\Users\anast\Desktop\App\Тестовое задание\Reestr\Reestr\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\anast\Desktop\App\Тестовое задание\Reestr\Reestr\obj\Debug\netcoreapp2.1\Reestr.RazorTargetAssemblyInfo.cache
+C:\Users\anast\Desktop\App\Тестовое задание\Reestr\Reestr\obj\Debug\netcoreapp2.1\Reestr.RazorTargetAssemblyInfo.cs
+C:\Users\anast\Desktop\App\Тестовое задание\Reestr\Reestr\obj\Debug\netcoreapp2.1\Reestr.Views.pdb
+C:\Users\anast\Desktop\App\Тестовое задание\Reestr\Reestr\obj\Debug\netcoreapp2.1\Reestr.dll
+C:\Users\anast\Desktop\App\Тестовое задание\Reestr\Reestr\obj\Debug\netcoreapp2.1\Reestr.pdb
+C:\Users\anast\Desktop\App\Тестовое задание\Reestr\Reestr\obj\Debug\netcoreapp2.1\Reestr.csproj.CopyComplete
+C:\Users\anast\Desktop\App\Тестовое задание\Reestr\Reestr\obj\Debug\netcoreapp2.1\Reestr.csprojAssemblyReference.cache
+C:\Users\anast\OneDrive\Рабочий стол\Тестовое задание\Reestr\Reestr\bin\Debug\netcoreapp2.1\Reestr.deps.json
+C:\Users\anast\OneDrive\Рабочий стол\Тестовое задание\Reestr\Reestr\bin\Debug\netcoreapp2.1\Reestr.runtimeconfig.json
+C:\Users\anast\OneDrive\Рабочий стол\Тестовое задание\Reestr\Reestr\bin\Debug\netcoreapp2.1\Reestr.runtimeconfig.dev.json
+C:\Users\anast\OneDrive\Рабочий стол\Тестовое задание\Reestr\Reestr\bin\Debug\netcoreapp2.1\Reestr.dll
+C:\Users\anast\OneDrive\Рабочий стол\Тестовое задание\Reestr\Reestr\bin\Debug\netcoreapp2.1\Reestr.pdb
+C:\Users\anast\OneDrive\Рабочий стол\Тестовое задание\Reestr\Reestr\bin\Debug\netcoreapp2.1\Reestr.Views.dll
+C:\Users\anast\OneDrive\Рабочий стол\Тестовое задание\Reestr\Reestr\bin\Debug\netcoreapp2.1\Reestr.Views.pdb
+C:\Users\anast\OneDrive\Рабочий стол\Тестовое задание\Reestr\Reestr\obj\Debug\netcoreapp2.1\Reestr.csprojAssemblyReference.cache
+C:\Users\anast\OneDrive\Рабочий стол\Тестовое задание\Reestr\Reestr\obj\Debug\netcoreapp2.1\Reestr.csproj.CoreCompileInputs.cache
+C:\Users\anast\OneDrive\Рабочий стол\Тестовое задание\Reestr\Reestr\obj\Debug\netcoreapp2.1\Reestr.RazorAssemblyInfo.cache
+C:\Users\anast\OneDrive\Рабочий стол\Тестовое задание\Reestr\Reestr\obj\Debug\netcoreapp2.1\Reestr.RazorAssemblyInfo.cs
+C:\Users\anast\OneDrive\Рабочий стол\Тестовое задание\Reestr\Reestr\obj\Debug\netcoreapp2.1\Reestr.AssemblyInfoInputs.cache
+C:\Users\anast\OneDrive\Рабочий стол\Тестовое задание\Reestr\Reestr\obj\Debug\netcoreapp2.1\Reestr.AssemblyInfo.cs
+C:\Users\anast\OneDrive\Рабочий стол\Тестовое задание\Reestr\Reestr\obj\Debug\netcoreapp2.1\Reestr.TagHelpers.input.cache
+C:\Users\anast\OneDrive\Рабочий стол\Тестовое задание\Reestr\Reestr\obj\Debug\netcoreapp2.1\Reestr.TagHelpers.output.cache
+C:\Users\anast\OneDrive\Рабочий стол\Тестовое задание\Reestr\Reestr\obj\Debug\netcoreapp2.1\Reestr.RazorCoreGenerate.cache
+C:\Users\anast\OneDrive\Рабочий стол\Тестовое задание\Reestr\Reestr\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\anast\OneDrive\Рабочий стол\Тестовое задание\Reestr\Reestr\obj\Debug\netcoreapp2.1\Reestr.RazorTargetAssemblyInfo.cache
+C:\Users\anast\OneDrive\Рабочий стол\Тестовое задание\Reestr\Reestr\obj\Debug\netcoreapp2.1\Reestr.RazorTargetAssemblyInfo.cs
+C:\Users\anast\OneDrive\Рабочий стол\Тестовое задание\Reestr\Reestr\obj\Debug\netcoreapp2.1\Reestr.Views.pdb
+C:\Users\anast\OneDrive\Рабочий стол\Тестовое задание\Reestr\Reestr\obj\Debug\netcoreapp2.1\Reestr.dll
+C:\Users\anast\OneDrive\Рабочий стол\Тестовое задание\Reestr\Reestr\obj\Debug\netcoreapp2.1\Reestr.pdb
+C:\Users\anast\OneDrive\Рабочий стол\Тестовое задание\Reestr\Reestr\obj\Debug\netcoreapp2.1\Reestr.csproj.CopyComplete
+C:\Users\anast\OneDrive\Рабочий стол\Reestr\Reestr\bin\Debug\netcoreapp2.1\Reestr.deps.json
+C:\Users\anast\OneDrive\Рабочий стол\Reestr\Reestr\bin\Debug\netcoreapp2.1\Reestr.runtimeconfig.json
+C:\Users\anast\OneDrive\Рабочий стол\Reestr\Reestr\bin\Debug\netcoreapp2.1\Reestr.runtimeconfig.dev.json
+C:\Users\anast\OneDrive\Рабочий стол\Reestr\Reestr\bin\Debug\netcoreapp2.1\Reestr.dll
+C:\Users\anast\OneDrive\Рабочий стол\Reestr\Reestr\bin\Debug\netcoreapp2.1\Reestr.pdb
+C:\Users\anast\OneDrive\Рабочий стол\Reestr\Reestr\bin\Debug\netcoreapp2.1\Reestr.Views.dll
+C:\Users\anast\OneDrive\Рабочий стол\Reestr\Reestr\bin\Debug\netcoreapp2.1\Reestr.Views.pdb
+C:\Users\anast\OneDrive\Рабочий стол\Reestr\Reestr\obj\Debug\netcoreapp2.1\Reestr.csprojAssemblyReference.cache
+C:\Users\anast\OneDrive\Рабочий стол\Reestr\Reestr\obj\Debug\netcoreapp2.1\Reestr.csproj.CoreCompileInputs.cache
+C:\Users\anast\OneDrive\Рабочий стол\Reestr\Reestr\obj\Debug\netcoreapp2.1\Reestr.RazorAssemblyInfo.cache
+C:\Users\anast\OneDrive\Рабочий стол\Reestr\Reestr\obj\Debug\netcoreapp2.1\Reestr.RazorAssemblyInfo.cs
+C:\Users\anast\OneDrive\Рабочий стол\Reestr\Reestr\obj\Debug\netcoreapp2.1\Reestr.AssemblyInfoInputs.cache
+C:\Users\anast\OneDrive\Рабочий стол\Reestr\Reestr\obj\Debug\netcoreapp2.1\Reestr.AssemblyInfo.cs
+C:\Users\anast\OneDrive\Рабочий стол\Reestr\Reestr\obj\Debug\netcoreapp2.1\Reestr.TagHelpers.input.cache
+C:\Users\anast\OneDrive\Рабочий стол\Reestr\Reestr\obj\Debug\netcoreapp2.1\Reestr.TagHelpers.output.cache
+C:\Users\anast\OneDrive\Рабочий стол\Reestr\Reestr\obj\Debug\netcoreapp2.1\Reestr.RazorCoreGenerate.cache
+C:\Users\anast\OneDrive\Рабочий стол\Reestr\Reestr\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\anast\OneDrive\Рабочий стол\Reestr\Reestr\obj\Debug\netcoreapp2.1\Reestr.RazorTargetAssemblyInfo.cache
+C:\Users\anast\OneDrive\Рабочий стол\Reestr\Reestr\obj\Debug\netcoreapp2.1\Reestr.RazorTargetAssemblyInfo.cs
+C:\Users\anast\OneDrive\Рабочий стол\Reestr\Reestr\obj\Debug\netcoreapp2.1\Reestr.Views.pdb
+C:\Users\anast\OneDrive\Рабочий стол\Reestr\Reestr\obj\Debug\netcoreapp2.1\Reestr.dll
+C:\Users\anast\OneDrive\Рабочий стол\Reestr\Reestr\obj\Debug\netcoreapp2.1\Reestr.pdb
+C:\Users\anast\OneDrive\Рабочий стол\Reestr\Reestr\obj\Debug\netcoreapp2.1\Reestr.csproj.CopyComplete
